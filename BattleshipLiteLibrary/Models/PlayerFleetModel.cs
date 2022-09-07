@@ -14,8 +14,8 @@ namespace BattleshipLiteLibrary.Models
 
         public string FullName { get => $"{FirstName} {LastName}"; }
 
-        public List<GridLocationModel> Ships { get; set; }
+        public List<GridLocationModel> Ships { get; set; } = new List<GridLocationModel>();
 
-        public List<GridLocationModel> Shots { get; set; }
+        public List<GridLocationModel> Shots { get; set; } = new List<GridLocationModel>();
     }
 }
