@@ -1,5 +1,6 @@
 # BattleshipLiteApp
-**To build a small, two-player console game that has its roots in the game Battleship from Mattel.**
+**To build a small, two-player console game that has its roots in the game Battleship.**
+**Short version of the Battleship game to implement learnings**
 
 **Short description about the game:**
 
