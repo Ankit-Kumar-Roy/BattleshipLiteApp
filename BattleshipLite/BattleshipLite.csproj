@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BattleshipLiteLibrary\BattleshipLiteLibrary.csproj" />
+    <ProjectReference Include="..\CommonLibrary\CommonLibrary.csproj" />
   </ItemGroup>
 
 </Project>
